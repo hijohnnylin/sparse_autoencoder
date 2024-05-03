@@ -4,7 +4,6 @@ description="Sparse autoencoder for GPT2"
 version = "0.2"
 authors = [{name = "OpenAI"}]
 dependencies = [
-    "blobfile ~= 2.1.2",
     "torch ~= 2.2.2",
     "transformer_lens ~= 1.14.0",
 ]
